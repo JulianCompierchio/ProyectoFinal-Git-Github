@@ -12,6 +12,12 @@ Aplicación web creada como práctica para aprender HTML, Git y GitHub.
 5. Abrir un Pull Request hacia `main` detallando las modificaciones para su revisión y posterior integración.
 ## Instalación y visualización
 1. Clonar el repositorio:
-   ```bash git clone https://github.com/JulianCompierchio/ProyectoFinal-Git-Github.git
+   ```bash
+   git clone https://github.com/JulianCompierchio/ProyectoFinal-Git-Github.git
+   ```
+2. Inicialización:
+   ```bash
+   git init
+   ```
 ## Autores 
 Compierchio Julian
